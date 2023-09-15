@@ -6,7 +6,6 @@ const Homepage = () => {
   return (
     <>
       <Banner />
-      https://crypto-hunter.netlify.app/
       <CoinsTable />
     </>
   );
