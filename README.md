@@ -37,9 +37,9 @@ Follow these instructions to get a copy of the project up and running on your lo
    ```
 3. Install the required dependencies 
     
-```bash 
-npm install
-```
+   ```bash 
+   npm install
+   ```
 ## Usage
 1. Upon running the project you will be presented with a list of cryptocurrencies
 2. Use the search bar to find a specific cryptocurrency by name or symbol.
