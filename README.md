@@ -1,8 +1,7 @@
 # Crypto Hunter
 
-Crypto Tracker is a web application that allows you to track and monitor the prices of various cryptocurrencies in real-time. It provides information on cryptocurrency prices, market capitalization, and more.
+Crypto Hunter is a web application that allows you to track and monitor the prices of various cryptocurrencies in real-time. It provides information on cryptocurrency prices, market capitalization, and more.
 
-![Crypto Tracker Screenshot](screenshot.png)
 
 ## Features
 
@@ -30,11 +29,11 @@ Follow these instructions to get a copy of the project up and running on your lo
 1. Clone the repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/yourusername/crypto-tracker.git
+   git clone https://github.com/yourusername/crypto-hunter.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd crypto_tracker
+   cd crypto_hunter
    ```
 3. Install the required dependencies 
     
