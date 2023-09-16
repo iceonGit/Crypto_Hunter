@@ -14,7 +14,6 @@ Crypto Hunter is a web application that allows you to track and monitor the pric
 
 - ReactJS
 - CoinGecko API
-- Bootstrap (for styling)
 
 ## Getting Started
 
