@@ -1,4 +1,4 @@
-# Crypto Tracker
+# Crypto Hunter
 
 Crypto Tracker is a web application that allows you to track and monitor the prices of various cryptocurrencies in real-time. It provides information on cryptocurrency prices, market capitalization, and more.
 
