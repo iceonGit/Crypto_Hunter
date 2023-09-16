@@ -42,4 +42,11 @@ Follow these instructions to get a copy of the project up and running on your lo
 ## Usage
 1. Upon running the project you will be presented with a list of cryptocurrencies
 2. Use the search bar to find a specific cryptocurrency by name or symbol.
-3. Click on a cryptocurrency card to view detailed information, including current price, market cap, volume, and price changes
+3. Click on a cryptocurrency card to view detailed information, including current price, market cap, volume, and price changes.
+
+## Contributing
+
+If you wish to contribute to Crypto Hunter, feel free to submit pull requests or raise issues on the GitHub repository.
+License
+
+Crypto Hunter is open-source software licensed under the MIT License.
