@@ -13,6 +13,7 @@ Crypto Hunter is a web application that allows you to track and monitor the pric
 ## Technologies Used
 
 - ReactJS
+- ChartJS
 - CoinGecko API
 
 ## Getting Started
@@ -35,7 +36,6 @@ Follow these instructions to get a copy of the project up and running on your lo
    cd crypto_hunter
    ```
 3. Install the required dependencies 
-    
    ```bash 
    npm install
    ```
