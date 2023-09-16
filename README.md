@@ -47,6 +47,3 @@ Follow these instructions to get a copy of the project up and running on your lo
 ## Contributing
 
 If you wish to contribute to Crypto Hunter, feel free to submit pull requests or raise issues on the GitHub repository.
-License
-
-Crypto Hunter is open-source software licensed under the MIT License.
